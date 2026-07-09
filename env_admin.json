@@ -1,10 +1,10 @@
 {
   "android_enabled": true,
-  "android_apk_url": "http://167.71.213.189:70/files/MyPASBid-1.0.2-Rev6.apk",
-  "android_latest_version_code": 17,
-  "android_latest_version_name": "1.0.2 Rev6",
-  "android_minimum_version_code": 17,
+  "android_apk_url": "http://167.71.213.189:70/files/MyPASBid-1.0.3.apk",
+  "android_latest_version_code": 18,
+  "android_latest_version_name": "1.0.3",
+  "android_minimum_version_code": 18,
   "android_release_note": "Update aplikasi kamu untuk mendapatkan pengalaman yang lebih baik",
   "android_apk_sha256": "",
-  "updated_at": "2026-06-30T30:06:00+07:00"
+  "updated_at": "2026-07-09T08:06:00+07:00"
 }
