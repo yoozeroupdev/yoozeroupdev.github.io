@@ -1,6 +1,6 @@
 {
   "android_enabled": true,
-  "android_apk_url": "http://167.71.213.189:70/files/MyPASBid-1.0.6.apk",
+  "android_apk_url": "http://167.71.213.189/files/MyPASBid-1.0.6.apk",
   "android_latest_version_code": 22,
   "android_latest_version_name": "1.0.6",
   "android_minimum_version_code": 22,
